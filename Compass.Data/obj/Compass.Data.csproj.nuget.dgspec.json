@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {}
+    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
+    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
         "projectName": "Compass.Data",
-        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
         "packagesPath": "C:\\Users\\ilchu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\obj\\",
+        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

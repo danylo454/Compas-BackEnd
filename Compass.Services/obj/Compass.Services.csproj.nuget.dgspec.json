@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj": {}
+    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
+    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
         "projectName": "Compass.Data",
-        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
         "packagesPath": "C:\\Users\\ilchu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\obj\\",
+        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj": {
+    "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj",
+        "projectUniqueName": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj",
         "projectName": "Compass.Services",
-        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj",
+        "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Services\\Compass.Services.csproj",
         "packagesPath": "C:\\Users\\ilchu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Services\\obj\\",
+        "outputPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
-                "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj"
+              "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj": {
+                "projectPath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj"
               }
             }
           }

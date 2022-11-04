@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tafDrBAvPVQ5yS55fZqE2jaH2wsC5O6jyDGYqMS38Kp3CINCu7nV784XVpAyjHXuRq+h6u8MSSySdq/3CZrgmQ==",
+  "dgSpecHash": "1H83nB44ggqfXBYRS3oeeAdS0qeUHIt+A0oraFdcpQ3MPDSGfSpgd3MGKwTBIpzvVxJ1M7zV6C2WWbZmL2UPYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.API\\Compass.API.csproj",
+  "projectFilePath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.API\\Compass.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilchu\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -58,6 +58,7 @@
     "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\mimekit\\3.4.0\\mimekit.3.4.0.nupkg.sha512",

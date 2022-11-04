@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4uq6h8PNFGRy/fRAGJ1rZ7/1YjSW0HcamiA81v+EtJj7rvst85Qu1EduD2xscP+8ULNcydzFRYdFdvAFa9G0Q==",
+  "dgSpecHash": "Qys14I7jhF4Q+ir1czco2joJUvqbz+Gan1jyXCORejbQQBMK71fbflJ7uc9LEwBSB+kMiT5KBCR3MT4ctRZDng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\Препод web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
+  "projectFilePath": "C:\\Users\\ilchu\\OneDrive\\Робочий стіл\\Web API\\web api Compas\\Web API\\Compass\\Compass.Data\\Compass.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilchu\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ilchu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
