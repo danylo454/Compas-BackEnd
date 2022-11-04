@@ -1,0 +1,14 @@
+C:\Web Projects\Web API\Compass\Compass.Data\bin\Release\net6.0\Compass.Data.deps.json
+C:\Web Projects\Web API\Compass\Compass.Data\bin\Release\net6.0\Compass.Data.runtimeconfig.json
+C:\Web Projects\Web API\Compass\Compass.Data\bin\Release\net6.0\Compass.Data.dll
+C:\Web Projects\Web API\Compass\Compass.Data\bin\Release\net6.0\Compass.Data.pdb
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.csproj.AssemblyReference.cache
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.AssemblyInfoInputs.cache
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.AssemblyInfo.cs
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.csproj.CoreCompileInputs.cache
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.dll
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\refint\Compass.Data.dll
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.pdb
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\Compass.Data.genruntimeconfig.cache
+C:\Web Projects\Web API\Compass\Compass.Data\obj\Release\net6.0\ref\Compass.Data.dll
