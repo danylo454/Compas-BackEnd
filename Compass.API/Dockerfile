@@ -1,24 +1,15 @@
-#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
-
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
+COPY . /app
+RUN dotnet restore "Compass.API/Compass.API.csproj"
+RUN dotnet restore "Compass.Data/Compass.Data.csproj"
+RUN dotnet restore "Compass.Services/Compass.Services.csproj"
+
+RUN dotnet publish -c Release -o /app/build
+
 EXPOSE 80
 EXPOSE 443
+EXPOSE 8080
 
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-COPY ["Compass.API/Compass.API.csproj", "Compass.API/"]
-COPY ["Compass.Services/Compass.Services.csproj", "Compass.Services/"]
-COPY ["Compass.Data/Compass.Data.csproj", "Compass.Data/"]
-RUN dotnet restore "Compass.API/Compass.API.csproj"
-COPY . .
-WORKDIR "/src/Compass.API"
-RUN dotnet build "Compass.API.csproj" -c Release -o /app/build
-
-FROM build AS publish
-RUN dotnet publish "Compass.API.csproj" -c Release -o /app/publish
-
-FROM base AS final
-WORKDIR /app
-COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Compass.API.dll"]
+WORKDIR /app/build
+CMD ["dotnet", "Compass.API.dll", "--urls", "http://0.0.0.0:8080"]
