@@ -1,0 +1,59 @@
+#!groovy
+//  groovy Jenkinsfile
+properties([disableConcurrentBuilds()])
+
+pipeline  {
+    
+    agent { 
+        label 'master'
+        }
+    options {
+        buildDiscarder(logRotator(numToKeepStr: '10', artifactNumToKeepStr: '10'))
+        timestamps()
+    }
+    stages {
+        stage("Removing old images") {
+            steps {
+                echo 'Removing images ...'
+                 dir('.'){
+                    sh "docker rmi danylo454/Compas-BackEnd"
+                }
+            }
+        }
+        stage("Creating images") {
+            steps {
+                echo 'Creating docker image ...'
+                    dir('.'){
+                    sh "docker build -t danylo454/Compas-BackEnd ."
+                }
+            }
+        }
+        stage("docker login") {
+            steps {
+                echo " ============== docker login =================="
+                withCredentials([usernamePassword(credentialsId: 'DockerHub', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) {
+                    sh '''
+                    docker login -u $USERNAME -p $PASSWORD
+                    '''
+                }
+            }
+        }
+        stage("docker push image") {
+            steps {
+                echo " ============== pushing image =================="
+                sh '''
+                docker push danylo454/Compas-BackEnd:latest
+                '''
+            }
+        }
+        
+        stage("docker run") {
+            steps {
+                echo " ============== starting frontend =================="
+                sh '''
+                docker run -d --restart=always --name compass_backed-p 8081:8080 danylo454/Compas-BackEnd:latest
+                '''
+            }
+        }
+    }
+}
