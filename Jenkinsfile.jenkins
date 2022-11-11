@@ -16,7 +16,7 @@ pipeline  {
             steps {
                 echo 'Removing images ...'
                  dir('.'){
-                    sh "docker rmi danylo454/Compas-BackEnd"
+                    sh "docker rmi danylo454/compass_backed"
                 }
             }
         }
@@ -24,7 +24,7 @@ pipeline  {
             steps {
                 echo 'Creating docker image ...'
                     dir('.'){
-                    sh "docker build -t danylo454/Compas-BackEnd ."
+                    sh "docker build -t danylo454/compass_backed ."
                 }
             }
         }
@@ -42,7 +42,7 @@ pipeline  {
             steps {
                 echo " ============== pushing image =================="
                 sh '''
-                docker push danylo454/Compas-BackEnd:latest
+                docker push danylo454/compass_backed:latest
                 '''
             }
         }
@@ -51,7 +51,7 @@ pipeline  {
             steps {
                 echo " ============== starting frontend =================="
                 sh '''
-                docker run -d --restart=always --name compass_backed-p 8081:8080 danylo454/Compas-BackEnd:latest
+                docker run -d --restart=always --name compass_backed-p 8081:8080 danylo454/compass_backed:latest
                 '''
             }
         }
