@@ -30,3 +30,17 @@ C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Com
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.pdb
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.genruntimeconfig.cache
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\ref\Compass.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\bin\Debug\net6.0\Compass.Data.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\bin\Debug\net6.0\Compass.Data.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\bin\Debug\net6.0\Compass.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\bin\Debug\net6.0\Compass.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\refint\Compass.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\Compass.Data.genruntimeconfig.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Data\obj\Debug\net6.0\ref\Compass.Data.dll

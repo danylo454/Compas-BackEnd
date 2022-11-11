@@ -31,3 +31,18 @@ C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Com
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\refint\Compass.Services.dll
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.pdb
 C:\Users\ilchu\OneDrive\Робочий стіл\Web API\Препод web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\ref\Compass.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\bin\Debug\net6.0\Compass.Services.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\bin\Debug\net6.0\Compass.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\bin\Debug\net6.0\Compass.Services.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\bin\Debug\net6.0\Compass.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\bin\Debug\net6.0\Compass.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.csproj.CopyComplete
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\refint\Compass.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\Compass.Services.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Web API\web api Compas\Web API\Compass\Compass.Services\obj\Debug\net6.0\ref\Compass.Services.dll
