@@ -51,7 +51,7 @@ pipeline  {
             steps {
                 echo " ============== starting frontend =================="
                 sh '''
-                docker run -d --restart=always --name compass_backed-p 8081:8080 danylo454/compass_backed:latest
+                docker run -d --restart=always --name compass_backed -p 8081:8080 danylo454/compass_backed:latest
                 '''
             }
         }
