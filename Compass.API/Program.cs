@@ -64,7 +64,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors(options => options
-    .WithOrigins(new[] { "http://localhost:3000", "http://20.102.92.77"})
+    .WithOrigins(new[] { "http://localhost:3000", "http://20.102.92.77", "http://20.102.92.77:80" })
     .AllowAnyHeader()
     .AllowCredentials()
     .AllowAnyMethod()
